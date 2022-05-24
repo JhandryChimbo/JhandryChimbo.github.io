@@ -1,2 +1,3 @@
 # JhandryChimbo.github.io
-# Curriculum Jhandry Chimbo
+
+Curriculum Jhandry Chimbo
